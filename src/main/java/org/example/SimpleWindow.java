@@ -1,7 +1,7 @@
 package org.example;
 
 import javax.swing.*;
-
+//
 public class SimpleWindow {
     public static void main(String[] args) {
         // 创建一个 JFrame 实例
